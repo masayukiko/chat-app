@@ -20,5 +20,6 @@ module ChatApp
       g.javascripts false
       g.helper false
       g.test_flamework false
+    end
   end
 end
